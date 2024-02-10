@@ -1,4 +1,3 @@
-<img width="450" alt="Screenshot 2024-01-20 211534" src="Screenshot 2024-02-10 122554.png">
 # Snake Game
 
 Welcome to the Snake Game! This is a classic arcade game where you control a snake to eat food and grow longer while avoiding collisions with the walls or the snake itself.
@@ -30,4 +29,6 @@ To run the Snake Game, follow these steps:
 
    ```bash
    git clone https://github.com/Ishay1997/snake-game.git
+
+   <img width="450" alt="Screenshot 2024-01-20 211534" src="Screenshot 2024-02-10 122554.png">
 
